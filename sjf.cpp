@@ -50,6 +50,7 @@ int main() {
              << TAT[i] << "\t"
              << WT[i] << "\n";
     }
+   
 
     return 0;
 }
